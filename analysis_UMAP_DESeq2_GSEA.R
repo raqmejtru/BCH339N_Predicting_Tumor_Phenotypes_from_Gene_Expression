@@ -2,7 +2,7 @@
 #
 # Bioinformatics Project
 # Fall 2022
-# Raquel Mejia-Trujillo | rm57578
+# Raquel Mejia-Trujillo
 #
 # Objective:
 # Which biological processes characterize breast cancer, skin cancer, low grade
